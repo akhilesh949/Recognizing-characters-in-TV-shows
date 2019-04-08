@@ -19,7 +19,11 @@ OpenCV
 conda install -c menpo opencv
 ```
 The code will work on any python IDE.
+
 To take input frames from the primary webcam instead of a video stream, just pass 0 as the argument in 
-cap = cv2.VideoCapture(0)
+
+input_movie = cv2.VideoCapture(0)
+
 in place of 
-cap = cv2.VideoCapture('video_file_name.mp4')
+
+input_movie = cv2.VideoCapture('video_file_name.mp4')
