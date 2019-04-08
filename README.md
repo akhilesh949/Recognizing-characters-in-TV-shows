@@ -1,7 +1,9 @@
 # Facial-recognition-of-known-people-in-video-frames-or-webcam-feed
 
 This is a facial recognition software based on OpenCV python library.
-Such a software can be used in making face-unlock system, recognizing characters in streaming services,etc.
+
+Such a software can be used in making face-unlock system, recognizing characters in streaming services etc.
+
 The library makes use of Built dlib's state-of-the-art face recognition built with deep learning. The model has an accuracy of 99.38% on the Labeled Faces in the Wild benchmark.
 
 ## Dependencies
