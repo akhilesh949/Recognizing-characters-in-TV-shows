@@ -67,7 +67,6 @@ while True:
     out.write(frame)    
   
     
-# All done!
 input_movie.release()
 out.release()
 cv2.destroyAllWindows()
