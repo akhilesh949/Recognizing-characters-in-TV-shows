@@ -6,6 +6,12 @@ Such a software can be used in making face-unlock system, recognizing characters
 
 The library makes use of dlib's state-of-the-art face recognition built with deep learning. The model has an accuracy of 99.38% on the Labeled Faces in the Wild benchmark.
 
+
+![input:](https://github.com/akhilesh949/Face-recognition-of-known-people-in-video-frames-or-webcam-feed/blob/master/Screenshot%20(95).png?raw=true)
+
+![output:](https://github.com/akhilesh949/Face-recognition-of-known-people-in-video-frames-or-webcam-feed/blob/master/Screenshot%20(96).png?raw=true)
+
+
 ## Dependencies
 Python 3.0
 
@@ -28,7 +34,3 @@ in place of
 
 input_movie = cv2.VideoCapture('video_file_name.mp4')
 
-
-![input:](https://github.com/akhilesh949/Face-recognition-of-known-people-in-video-frames-or-webcam-feed/blob/master/Screenshot%20(95).png?raw=true)
-
-![output:](https://github.com/akhilesh949/Face-recognition-of-known-people-in-video-frames-or-webcam-feed/blob/master/Screenshot%20(96).png?raw=true)
