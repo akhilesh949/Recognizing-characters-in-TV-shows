@@ -27,3 +27,8 @@ input_movie = cv2.VideoCapture(0)
 in place of 
 
 input_movie = cv2.VideoCapture('video_file_name.mp4')
+
+
+![input:](https://github.com/akhilesh949/Face-recognition-of-known-people-in-video-frames-or-webcam-feed/blob/master/Screenshot%20(95).png?raw=true)
+
+![output:](https://github.com/akhilesh949/Face-recognition-of-known-people-in-video-frames-or-webcam-feed/blob/master/Screenshot%20(96).png?raw=true)
