@@ -1,4 +1,4 @@
-# Face-recognition-of-known-people-in-video-frames-or-webcam-feed
+# Facial verification of known people in video frames or webcam feed
 
 This is a facial recognition software based on OpenCV python library.
 
