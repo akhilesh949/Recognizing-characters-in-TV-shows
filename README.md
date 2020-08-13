@@ -1,6 +1,6 @@
 # Facial verification of known people in video frames or webcam feed
 
-This is a facial recognition software based on OpenCV python library.
+This is a facial verification software based on OpenCV python library.
 
 Such a software can be used in making face-unlock system, recognizing characters in streaming services etc.
 
